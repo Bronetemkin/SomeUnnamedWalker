@@ -1,4 +1,4 @@
-package ru.Bronetemkin.someunnamedwalker;
+package ru.bronetemkin.someunnamedwalker;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

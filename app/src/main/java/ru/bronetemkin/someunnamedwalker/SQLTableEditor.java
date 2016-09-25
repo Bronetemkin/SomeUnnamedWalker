@@ -1,10 +1,8 @@
-package ru.Bronetemkin.someunnamedwalker;
+package ru.bronetemkin.someunnamedwalker;
 
 import java.util.ArrayList;
 import java.util.regex.Matcher;
 
-import ru.Bronetemkin.someunnamedwalker.RegExp;
-import ru.Bronetemkin.someunnamedwalker.SMSContent;
 import android.content.ContentValues;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;

@@ -1,6 +1,4 @@
-package ru.Bronetemkin.someunnamedwalker;
-
-import android.os.AsyncTask;
+package ru.bronetemkin.someunnamedwalker;
 
 public abstract class Test<Start, Middle, End> {
     protected abstract void test(Start... start);

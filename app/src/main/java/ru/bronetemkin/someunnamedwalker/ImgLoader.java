@@ -1,4 +1,4 @@
-package ru.Bronetemkin.someunnamedwalker;
+package ru.bronetemkin.someunnamedwalker;
 
 import android.content.res.Resources;
 //import android.graphics.Bitmap;

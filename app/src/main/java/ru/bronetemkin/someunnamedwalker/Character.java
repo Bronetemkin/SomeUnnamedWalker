@@ -1,4 +1,4 @@
-package ru.Bronetemkin.someunnamedwalker;
+package ru.bronetemkin.someunnamedwalker;
 
 class Character {
 

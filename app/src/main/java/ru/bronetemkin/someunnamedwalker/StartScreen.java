@@ -1,4 +1,4 @@
-package ru.Bronetemkin.someunnamedwalker;
+package ru.bronetemkin.someunnamedwalker;
 
 import android.app.Activity;
 import android.content.res.Resources;
@@ -15,7 +15,7 @@ public class StartScreen extends Activity {
 		setContentView(draw);
 		
 		Resources r = this.getResources();
-		Weapons weapons = new Weapons(r);
+		Weapons weapons = new Weapons();
 
 		Log.d("LOGGING", weapons.mageWeaponList.get(0).getName());
 		}

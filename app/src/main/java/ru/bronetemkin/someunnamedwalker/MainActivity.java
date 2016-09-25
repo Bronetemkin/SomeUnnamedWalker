@@ -1,4 +1,4 @@
-package ru.Bronetemkin.someunnamedwalker;
+package ru.bronetemkin.someunnamedwalker;
 
 import android.app.Activity;
 import android.database.DataSetObserver;
@@ -6,7 +6,6 @@ import android.os.Bundle;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ExpandableListAdapter;
-import android.widget.ExpandableListView;
 
 /**
  * Created by Bronetemkin on 27.10.2015.

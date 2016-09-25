@@ -1,6 +1,5 @@
-package ru.Bronetemkin.someunnamedwalker;
+package ru.bronetemkin.someunnamedwalker;
 
-import android.content.Context;
 import android.util.Log;
 
 public class FPS {
